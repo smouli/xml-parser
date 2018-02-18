@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GeneralInformation Major="3" Minor="0" Revision="1" xmlns="urn:reuterscompanycontent:generalinformation03">
+	<RepNo>A0E60
+	</RepNo>
+	<CompanyName Type="Primary">Millennium Pharmaceuticals, Inc.
+	</CompanyName>
+	<Production Date="2017-07-28T00:10:08"/>
+	<IndustryClassification>
+		<Taxonomy Type="TRBC">
+			<Detail Code="5620104012" Description="Biopharmaceuticals" Mnemonic="" Order="1"/>
+		</Taxonomy>
+		<Taxonomy Type="NAICS1997">
+			<Detail Code="325412" Description="Pharmaceutical Preparation  Manufacturing" Order="1"/>
+			<Detail Code="325411" Description="Medicinal and Botanical Manufacturing" Order="2"/>
+		</Taxonomy>
+		<Taxonomy Type="SIC1987">
+			<Detail Code="2834" Description="Pharmaceutical Preparations" Order="0"/>
+			<Detail Code="2834" Description="Pharmaceutical Preparations" Order="1"/>
+			<Detail Code="2833" Description="Medicinals And Botanicals" Order="2"/>
+		</Taxonomy>
+	</IndustryClassification>
+	<CompanyGeneralInfo>
+		<Employees LastUpdated="2007-12-31">966</Employees>
+		<TotalSharesOut Date="2008-05-02" TotalFloat="323500000.0">327288246.0</TotalSharesOut>
+		<CommonShareholders Date="2007-12-31">1431</CommonShareholders>
+		<IncorporatedIn Country="USA" Date="1993-01-13">DE</IncorporatedIn>
+	</CompanyGeneralInfo>
+	<IssueInformation>
+		<Issue ID="1" Order="1" Type="C">
+			<IssueDetails ConversionFactor="1.0" Float="323500000.0" FloatDate="2008-05-02" ParCurrency="USD" ParValue="0.001" ShsAuthorized="500000000.0" ShsAuthorizedDate="2008-03-31" ShsIssued="327288246.0" ShsIssuedDate="2008-05-02" ShsOut="327288246.0" ShsOutDate="2008-05-02" ShsTreas="0.0" ShsTreasDate="2008-05-02" Votes="1.0"/>
+		</Issue>
+	</IssueInformation>
+	<ContactInfo LastUpdated="2016-03-23T23:22:12">
+		<Address>
+			<StreetAddress Line="1">40 Landsdowne St</StreetAddress>
+			<City>CAMBRIDGE</City>
+			<StateOrRegion>MA</StateOrRegion>
+			<PostalCode>02139-4234</PostalCode>
+			<Country Code="USA">United States</Country>
+		</Address>
+		<ContactPerson>
+			<ContactName/>
+			<ContactTitle/>
+		</ContactPerson>
+		<PhoneNumbers>
+			<Phone Type="MainPhone">
+				<CountryPhoneCode>1</CountryPhoneCode>
+				<CityAreaCode>617</CityAreaCode>
+				<Number>6797000</Number>
+			</Phone>
+			<Phone Type="MainFax">
+				<CountryPhoneCode>1</CountryPhoneCode>
+				<CityAreaCode>617</CityAreaCode>
+				<Number>3747788</Number>
+			</Phone>
+		</PhoneNumbers>
+		<EMail>info@mlnm.com</EMail>
+	</ContactInfo>
+	<WebLinksInfo LastUpdated="2015-05-18T09:54:22">
+		<WebSite Type="Home Page">https://www.millennium.com/</WebSite>
+	</WebLinksInfo>
+	<TextInfo>
+		<Text LastUpdated="2011-11-04T00:00:00" SourceFilingDate="2008-05-19T00:00:00" SourceFilingType="CCT" Type="Business Summary" lang="en-US">Millenium Pharmaceuticals, Inc. develops genetics, genomics, throughput screening and informatics in a science and technology platform. The Company utilizes genomics and genetics for the commercialization of human therapeutics through identification of disease related genes and their cellular function. The Company is focusing on obesity, Type II diabetes, asthma, auto-immune diseases, cardiovascular diseases, cancer and diseases of the central nervous system.</Text>
+		<Text LastUpdated="2008-05-27T00:00:00" Type="Equity Composition">Common Stock $.001 Par, 5/08, 500M auth., 327,288,246 issd. Insiders 3% (includes 6M shs. in opt.). IPO 5/96, 5,175,000 shs. @ $12.00 byGoldman, Sachs &amp; Co. PO: 10/00, 11M sh. @ $64 by Goldman, Sachs. *Upon IPO completion all Pref. converted into 12,172,221 com. 05/08, Co. acq. by Takeda Pharmaceutical Company Limited.</Text>
+		<Text LastUpdated="2008-05-27T00:00:00" Type="Analyst Footnotes">2/02, Co. acquired COR Therapeutics, Inc. @ 0.9873 shares (54,940,625 shs. issd.). 2/97, Co. merged with ChemGenics Pharmaceuticals for 4,783,688 Common.</Text>
+		<Text LastUpdated="2013-05-07T04:14:48" Type="Financial Summary">BRIEF: For the three months ended 31 March 2008, Millennium Pharmaceuticals, Inc. revenues increased 26% to $139.5M. Net income totaled $14.6M vs. loss of $6.8M. Revenues reflect Net Product Sales increase of 42% to $83.5M. Net Income reflects Restructuring decrease from $5.6M (expense) to $2.9M (income), Interest Expense decrease of 14% to $2.4M (expense). Basic Earnings per Share excluding Extraordinary Items increased from -$0.02 to $0.05.</Text>
+	</TextInfo>
+	<Advisors>
+		<Auditor Code="EY" Name="Ernst &amp; Young LLP"/>
+	</Advisors>
+</GeneralInformation>
