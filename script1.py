@@ -2,6 +2,7 @@ import xml.etree.ElementTree as ET
 tree = ET.parse('/Users/sanatmouli/xml-parser/GenInfo_A0E60.xml')
 root = tree.getroot()
 
+
 var_tag = []
 var_attrib = []
 var_text = []
@@ -29,13 +30,12 @@ for child in root:
 	if child.tag == '{urn:reuterscompanycontent:generalinformation03}IssueInformation':
 		for sub1child in child:
 			print (sub1child.tag, sub1child.attrib) # print issue
+
 			# Issuedetails
 			if sub1child.tag == '{urn:reuterscompanycontent:generalinformation03}IssueDetails':
 				for sub2child in sub1child:
 					print (sub2child.tag, sub2child.attrib, sub2child.text)
-
-
-
+					
 
 
 	#var_tag.append(child.tag)
