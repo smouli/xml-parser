@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<LongBusinessDescription Major="1" Minor="0" Revision="1">
+<CoIDs>
+<CoID Type="RepNo">00E92</CoID>
+<CoID Type="CompanyName">Warrior Met Coal LLC</CoID>
+<CoID Type="IRSNo">810706839</CoID>
+<CoID Type="CIKNo">0001691303</CoID>
+</CoIDs>
+<Issues>
+<Issue ID="1" Type="C" Desc="Common Stock" Order="1">
+<IssueID Type="Name">Ordinary Shares</IssueID>
+<IssueID Type="Ticker">HCC</IssueID>
+<IssueID Type="CUSIP">93627C101</IssueID>
+<IssueID Type="ISIN">US93627C1018</IssueID>
+<IssueID Type="RIC">HCC</IssueID>
+<IssueID Type="SEDOL">BF2X272</IssueID>
+<IssueID Type="DisplayRIC">HCC.N</IssueID>
+<IssueID Type="InstrumentPI">253853259</IssueID>
+<IssueID Type="QuotePI">257326505</IssueID>
+<Exchange Code="NYSE" Country="USA">New York Stock Exchange</Exchange>
+</Issue>
+</Issues>
+<CoGeneralInfo>
+<CoStatus Code="1">Active</CoStatus>
+<CoType Code="EQU">Equity Issue</CoType>
+<LastModified>2017-11-27</LastModified>
+<LatestAvailableAnnual>2016-12-31</LatestAvailableAnnual>
+<LatestAvailableInterim>2017-09-30</LatestAvailableInterim>
+<ReportingCurrency Code="USD">U.S. Dollars</ReportingCurrency>
+<MostRecentExchange Date="2017-11-27">1.0</MostRecentExchange>
+</CoGeneralInfo>
+<IndustryInfo>
+<Industry Type="MGINDUSTRY" Code="0603" Mnem="CCOALL">Coal</Industry>
+<Industry Type="MGSECTOR" Code="06" Mnem="ENERGY">Energy</Industry>
+</IndustryInfo>
+<Text LastModified="2017-04-13" SourceFilingDate="2017-01-13" SourceFilingType="CWS; PRS">Warrior Met Coal, Inc., formerly Warrior Met Coal, LLC, is a producer and exporter of metallurgical coal for the steel industry from underground mines located in Brookwood, Alabama, southwest of Birmingham and near Tuscaloosa. These underground coalmines are 1,400 to 2,100 feet underground. The Company's operations serve markets in the United States, Europe, Asia and South America via barge and rail access to the Port of Mobile.
+
+The Company currently has the operational capacity to mine eight million tons of coal per year from more than 300 million tons of recoverable reserves. The Company's operations also extract methane gas from the Blue Creek coal seam. The Company's gas division represents commercial programs for coal seam degasification in the country, producing approximately 30 million cubic feet of gas daily from over 1750 gas wells. The Company's mines operate under permits issued by the Alabama Surface Mining Commission (ASMC), the Alabama Department of Environmental Management (ADEM) and other state and federal agencies and administrative units.</Text>
+</LongBusinessDescription>
